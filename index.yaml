@@ -22,6 +22,6 @@ entries:
     name: shipy
     type: application
     urls:
-    - https://dnaprawa.github.io/helm-charts/shipy-0.2.0.tgz
+    - https://dnaprawa.github.io/helm-charts/shipy/shipy-0.2.0.tgz
     version: 0.2.0
 generated: "2022-06-13T13:06:57.544146+02:00"
