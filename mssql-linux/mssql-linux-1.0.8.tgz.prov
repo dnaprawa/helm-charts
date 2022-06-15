@@ -1,0 +1,32 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+apiVersion: v2
+appVersion: 1.0.8
+description: SQL Server 2019 Linux Helm Chart
+home: https://hub.docker.com/r/microsoft/mssql-server-linux/
+icon: https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1I4Dx
+maintainers:
+- - email: damian@szkoladockera.pl
+  name: Damian
+name: mssql-linux
+sources:
+- - https://hub.docker.com/r/microsoft/mssql-server-linux/
+version: 1.0.8
+
+...
+files:
+  mssql-linux-1.0.8.tgz: sha256:5df5fb3821ae4290a3cad26a0fe3d8a7e38454b751bb10f8d565d9287d7ad273
+-----BEGIN PGP SIGNATURE-----
+
+wsDcBAEBCgAQBQJiqfQ/CRBEY06wVNSCSwAA4d0MAInGm499QE1yspv4FMfrp+gV
+NMzZLj8CnOtcCzmfqqINQlulEmLoYt7FbKrZQ0f4svVJiay9DLgrRncRR+kzR0lA
+mZL77W4CbyORVinPAqh+m1hlj3BXfC/INAEkLbfAwoYeVt122kMoaiTnNjAxhLCx
+s/76QCHjXHJZoc0K+JH2mMlVsLwekG4AgcgcpDM+lQsZ1BX0BywvszValRkaj4Rm
+VXBwm8fDTX4k672uzKEj91OR5tDSCfgUeyM0Ff/NV5pV+8vsxdF+2hcWZg2VGkTd
+KU24DllT4IGegH5R4kAreMDOZNBEGlo7mcKwr3IbosR5nf5blvflo8EyNKqF3XPa
+GlnGTD7MzLWCWNH9JypAPcSpVKKbkjLpJE3gKBQ76ynLyz7ItxGtouKOI+aPtv/S
+NicB4niu2OGJxFoxMFc5R5IwTNBCcR064Ae1lpOHKs+iLEKtVQbxsVLYcPLmYZur
+DNklaZAZMtMNJ1fEQSzK1q52aRqA3S6ckDvCoFk6IA==
+=n2tA
+-----END PGP SIGNATURE-----
