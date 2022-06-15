@@ -39,6 +39,6 @@ entries:
     sources:
     - https://hub.docker.com/r/microsoft/mssql-server-linux/
     urls:
-    - https://dnaprawa.github.io/helm-charts/mssql-linux-1.0.8.tgz
+    - https://dnaprawa.github.io/helm-charts/mssql-linux/mssql-linux-1.0.8.tgz
     version: 1.0.8
 generated: "2022-06-13T13:06:57.544146+02:00"
