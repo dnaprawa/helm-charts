@@ -41,4 +41,15 @@ entries:
     urls:
     - https://dnaprawa.github.io/helm-charts/mssql-linux/mssql-linux-1.0.8.tgz
     version: 1.0.8
+  projectapp:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2022-06-18T09:12:09.000308+02:00"
+    description: Project App helm chart
+    digest: 1e032dd99728ebaf276f1d62bf7a9225bc352cecc6e102388aeac571cdabc43d
+    name: projectapp
+    type: application
+    urls:
+    - https://dnaprawa.github.io/helm-charts/projectapp/projectapp-1.0.0.tgz
+    version: 1.0.0
 generated: "2022-06-13T13:06:57.544146+02:00"

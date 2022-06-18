@@ -1,0 +1,26 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+apiVersion: v2
+appVersion: 1.0.0
+description: Project App helm chart
+name: projectapp
+type: application
+version: 1.0.0
+
+...
+files:
+  projectapp-1.0.0.tgz: sha256:1e032dd99728ebaf276f1d62bf7a9225bc352cecc6e102388aeac571cdabc43d
+-----BEGIN PGP SIGNATURE-----
+
+wsDcBAEBCgAQBQJirXoRCRBEY06wVNSCSwAAQcMMAIB8FCwQEkiN0IA3cWkURs5j
+/WZVrLx4xMQfkiwDwzSDp2cMaE0/LjN3xW0o50pLT1wMZoSljgd3+aZdSeE4KTyq
+LQDreLrCov++z1efNdS3V7VsBxYyODEj9mIprky8jNomdFZUFgJGup3nNjyJUX3F
+3G8OXceiPWJ810nncJTJWV8d66S4hn8IzwmkeeSd6qgw4y15iIiJFAeKDrTWCUft
+1MFW3TF2XPReFHlqB8f0kdfZgpHBuSIbtGNZCucZPNEiPK+0VRnEqwP+Yz9knbYw
+NHmdJAa9lYiUJL/TZpexPMEjaVRBwa4p9gcWkhG00lFicvMnvzSWePSs8LJL6TiP
+jXoNJiNULuIU50U1ec9u0SpXadvdmONFFWLf43djve4DBjlMBl2SQtav6jhMBk5M
+0lJ1sCRWl/a/oRyPokB9+uLidF32CalRtC6trRkTjNx2XOCTNAI7Xa08BuQid/bC
+9r2JGVG12SMjCVMJ2K9ps8S6KCY3YCFLD9QFi4JFNw==
+=0vFt
+-----END PGP SIGNATURE-----
