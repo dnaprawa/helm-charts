@@ -43,6 +43,16 @@ entries:
     version: 1.0.8
   projectapp:
   - apiVersion: v2
+    appVersion: 2.0.0
+    created: "2022-06-18T09:17:53.496028+02:00"
+    description: Project App helm chart
+    digest: 3fb0a2d32766e361f83463520178531c2024874bbaee37d50a642e263a33b641
+    name: projectapp
+    type: application
+    urls:
+    - https://dnaprawa.github.io/helm-charts/projectapp/projectapp-1.1.0.tgz
+    version: 1.1.0
+  - apiVersion: v2
     appVersion: 1.0.0
     created: "2022-06-18T09:15:50.88713+02:00"
     description: Project App helm chart
@@ -52,4 +62,4 @@ entries:
     urls:
     - https://dnaprawa.github.io/helm-charts/projectapp/projectapp-1.0.0.tgz
     version: 1.0.0
-generated: "2022-06-13T13:06:57.544146+02:00"
+generated: "2022-06-18T09:17:53.494918+02:00"
