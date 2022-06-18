@@ -44,9 +44,9 @@ entries:
   projectapp:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2022-06-18T09:12:09.000308+02:00"
+    created: "2022-06-18T09:15:50.88713+02:00"
     description: Project App helm chart
-    digest: 1e032dd99728ebaf276f1d62bf7a9225bc352cecc6e102388aeac571cdabc43d
+    digest: d3286917fb65d11949231fbfdabfad826a6cba25db59444ad9e02e954386b0e8
     name: projectapp
     type: application
     urls:
